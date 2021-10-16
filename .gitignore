@@ -7,3 +7,5 @@
 *.war
 *.ear
 .idea/
+/target/
+!gradle-wrapper.jar
